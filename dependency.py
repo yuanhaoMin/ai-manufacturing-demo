@@ -1,4 +1,4 @@
-# python -m venv C:\workspace\ai-manufacturing-demo\venv
+# python -m venv C:\Workspace\ai-manufacturing-demo\venv
 # .\venv\Scripts\activate
 # pip install -r requirements.txt
 
