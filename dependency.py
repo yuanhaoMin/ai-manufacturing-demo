@@ -4,7 +4,9 @@
 
 # pip install pipreqs
 # pipreqs ./ --force --encoding=utf8
+import gym
 import matplotlib
+import moviepy
 import numpy
 import pandas
 import seaborn
